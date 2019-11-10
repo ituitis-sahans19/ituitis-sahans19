@@ -1,0 +1,60 @@
+body{
+   
+    background-size:cover;
+    margin:2em;
+}
+h1{
+color:white;
+}
+
+#a1{ 
+     text-align:center;
+	color:white;
+}
+
+
+#fp{    
+    font-style:italic;
+}
+
+
+.menu{
+    border-style:solid;
+    border-width:5px;
+    margin:5px;
+    padding:13px;
+    display:inline-block;
+    border-radius:1000px;
+    font-size:1em;
+    
+}
+
+.a2{
+    text-decoration:none;  
+}
+
+
+
+.desc{
+    font-size:2em;
+    font-family:arial;
+    font-style:bold;
+    color:white;
+    margin:4em;
+    line-height:50px;
+    background-color: rgba(20,122,0, 0.75);
+    
+}
+
+#tops{
+    font-size:2em; 
+    text-decoration:none;   
+}
+
+
+}
+
+.edu{
+    text-align:left;
+    margin:20px;
+}
